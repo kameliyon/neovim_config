@@ -40,7 +40,8 @@ return
                     "pyright",
                     "html",
                     "gopls",
-                    "sqls"
+                    "sqls",
+                    "solidity-ls"
                 },
                 handlers = {
                     function(server_name)
